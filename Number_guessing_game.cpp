@@ -26,7 +26,7 @@ int main()
   
   // Stores the guess the user enters
   int guess = 0; int attempt=5;
-  cout<<number<<endl;
+  
   do
   {
     // Ask the user to enter the guess, store it into guess
